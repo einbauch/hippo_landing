@@ -50,6 +50,16 @@
     float: left;
 }
 
+.column-40 {
+    width: 40%;
+    float:left;
+}
+
+.column-60 {
+    width: 60%;
+    float:left;
+}
+
 .container:after {
     content: "";
     visibility: hidden;

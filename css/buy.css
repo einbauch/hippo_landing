@@ -1,0 +1,21 @@
+.buy {
+    padding: 40px 0;
+    background: #fff;
+}
+
+.buy-image {
+    margin: 20px;
+    width: 95%;
+    height: auto;
+}
+
+.buy-form {
+    margin:  20px;
+    width: 95%;
+    text-align: left;
+}
+
+.buy-form-item {
+    margin-left: 20px;
+    font-weight: bold;
+}
