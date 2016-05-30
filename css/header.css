@@ -38,6 +38,11 @@
     text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
 }
 
+.header-nav-link:hover {
+    color: #000;
+    transition: all ease .5s;
+}
+
 @media (max-width: 640px) {
     .header {
         position: inherit;

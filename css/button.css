@@ -17,7 +17,17 @@
     padding: 10px 15px;
 }
 
+.button-gray:hover {
+    background: #373737;
+    transition: all ease .5s;
+}
+
 .button-pink {
     background: #7d3c59;
     color: #ffffff;
+}
+
+.button-pink:hover {
+    background: #693245;
+    transition: all ease .5s;
 }

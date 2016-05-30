@@ -1,6 +1,6 @@
 .intro {
     background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6) 90%), url("../img/hippo_background1.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6) 90%);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll, fixed;
