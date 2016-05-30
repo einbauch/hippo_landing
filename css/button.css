@@ -8,19 +8,12 @@
     font-weight: bold;
 }
 
-.button-green {
-    background: #8aba56;
-    color: #fff;
-}
-
 .button-gray {
     background: #aaa;
     color: #fff;
-}
-
-.button-blue {
-    background: #59a3fc;
-    color: #fff;
+    float:right;
+    margin-top: 10px;
+    padding: 10px 15px;
 }
 
 .button-pink {
