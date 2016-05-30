@@ -1,0 +1,27 @@
+.footer {
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    bottom: 0;
+    opacity: 0.95;
+}
+
+.footer-text {
+    display: inline-block;
+    font-weight: bold;
+    margin: 20px;
+    text-decoration: none;
+    color: #666666;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+
+@media (max-width: 640px) {
+    .footer {
+        position: inherit;
+        width: auto;
+        background: #fff;
+        bottom: auto;
+        opacity: 1;
+    }
+}

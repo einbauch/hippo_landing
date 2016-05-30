@@ -1,0 +1,16 @@
+.hippo {
+    background: #e5e5e5;
+    padding: 40px 0;
+}
+
+.hippo-image {
+    margin: 20px;
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.hippo .text-lead {
+    font-weight: bold;
+    font-style: italic;
+}

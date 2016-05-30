@@ -1,0 +1,29 @@
+.team {
+    padding: 40px 0;
+    background: #eee;
+}
+
+.team-members {
+    padding-top: 40px;
+}
+
+.member-image {
+    display: inline-block;
+    width: 160px;
+}
+
+.member-photo {
+    border: 5px solid #fff;
+    border-radius: 100%;
+    height: auto;
+}
+
+.member-details {
+    display: inline-block;
+    margin-left: 20px;
+    text-align: justify;
+}
+
+.member-details .text-medium {
+    margin-bottom: 20px;
+}
