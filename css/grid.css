@@ -67,3 +67,25 @@
     height: 0;
     clear: both;
 }
+
+@media (max-width: 960px) {
+    .column-25 {
+        float: left;
+        width: 50%;
+    }
+}
+
+@media (max-width: 640px) {
+    .column-33 {
+        float: none;
+        width: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .column-25,
+    .column-50 {
+        float: none;
+        width: auto;
+    }
+}
