@@ -13,4 +13,17 @@
 .hippo .text-lead {
     font-weight: bold;
     font-style: italic;
+    width: 95%;
+    margin: 20px;
+}
+
+.hippo .text-medium {
+    width: 95%;
+    margin: 20px;
+    text-align: justify;
+}
+
+.hippo .title-small {
+    width: 95%;
+    margin: 20px;
 }
