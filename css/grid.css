@@ -76,7 +76,9 @@
 }
 
 @media (max-width: 640px) {
-    .column-33 {
+    .column-33,
+    .column-40,
+    .column-60 {
         float: none;
         width: auto;
     }
